@@ -34,7 +34,7 @@ This has several subcommands, described in the help function:
 
 The "universal" profile contains checks for best practices agreed upon on the type design community.
 
-The initial set of checks was choses to be not only the full opentype profile but also those checks originally included in both `adobefonts` and `googlefonts` profiles.
+The initial set of checks was chosen to be not only the full opentype profile but also those checks originally included in both `adobefonts` and `googlefonts` profiles.
 
 The goal is to keep the vendor-specific profiles with only the minimal set of checks that are really specific, while the shared ones are placed on the universal profile.
 
